@@ -3,7 +3,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Profile &mdash; Free Website Template, Free HTML5 Template by freehtml5.co</title>
+	<title>Profile &mdash; </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
 	<meta name="keywords" content="free website templates, free html5, free template, free bootstrap, free website template, html5, css3, mobile first, responsive" />
@@ -74,6 +74,7 @@
 								<ul class="fh5co-social-icons">
 									<li><a href="https://twitter.com/alpheus___"><i class="icon-twitter2"></i></a></li>
 									<li><a href="https://www.facebook.com/alpheus.godswill"><i class="icon-facebook2"></i></a></li>
+									<li><a href="https://gmail.com/harryalph9@gmail.com"><i class="icon-mail2"></i></a></li>
 									<li><a href="https://www.linkedin.com/in/alpheus-godswill-160a9619a"><i class="icon-linkedin2"></i></a></li>
 									<!-- <li><a href="#"><i class="icon-dribbble2"></i></a></li> -->
 								</ul>
@@ -113,6 +114,7 @@
 						<ul class="fh5co-social-icons">
 							<li><a href="https://twitter.com/alpheus___"><i class="icon-twitter2"></i></a></li>
 									<li><a href="https://www.facebook.com/alpheus.godswill"><i class="icon-facebook2"></i></a></li>
+									<li><a href="https://gmail.com/harryalph9@gmail.com"><i class="icon-mail2"></i></a></li>
 									<li><a href="https://www.linkedin.com/in/alpheus-godswill-160a9619a"><i class="icon-linkedin2"></i></a></li>
 							<!-- <li><a href="#"><i class="icon-linkin2"></i></a></li> -->
 						</ul>
@@ -654,15 +656,15 @@
 		</div>
 		<div class="choose animate-box">
 			<h2>Contact</h2>
-			<form action="#">
+			<form action="./include/function.php" method="post">
 				<div class="row form-group">
 					<div class="col-md-6">
-						<input type="text" id="fname" class="form-control" placeholder="Your firstname">
+						<input type="text" id="fname" name="fname" class="form-control" placeholder="Your firstname">
 					</div>
 				</div>
 				<div class="row form-group">
 					<div class="col-md-6">
-						<input type="text" id="lname" class="form-control" placeholder="Your lastname">
+						<input type="text" id="lname" name="lname" class="form-control" placeholder="Your lastname">
 					</div>
 				</div>
 
