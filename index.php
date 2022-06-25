@@ -121,6 +121,140 @@
 			</div>
 		</div>
 	</div>
+	
+	<div id="fh5co-skills" class="animate-box">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Tools Being Used.</h2>
+				</div>
+			</div>
+			<div class="row row-pb-md">
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="95"><span><strong>nTask</strong>95%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="93"><span><strong>Entrypoint</strong>93%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="90"><span><strong>Microsoft Excel.</strong>90%</span></div>
+				</div>
+
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="89"><span><strong>PHP</strong>89%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="85"><span><strong>Google Docs</strong>85%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="85"><span><strong>Tabidoo</strong>85%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="90"><span><strong>Foxtrot RPA </strong>90%</span></div>
+				</div>
+				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
+					<div class="chart" data-percent="90"><span><strong>Zoho Forms</strong>90%</span></div>
+				</div>
+			</div>
+		</div>
+	</div>	
+
+	<div id="fh5co-skills" class="animate-box">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Skills</h2>
+				</div>
+			</div>
+			
+			<div class="row">
+				<div class="col-md-6">
+					<div class="progress-wrap">
+						<h3><span class="name-left">COMMUNICATION.</span><span class="value-right">88%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:88%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">INPUTTING  DATA.</span><span class="value-right">84%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:84%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">PROOFREADING DATA.</span><span class="value-right">89%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:89%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">DATA INTEGRITY.</span><span class="value-right">100%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">WORDPROCESSING.</span><span class="value-right">80%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+						  </div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="progress-wrap">
+						<h3><span class="name-left">VENDOR INVOICES TRANSCRIPTION.</span><span class="value-right">94%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:94%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">MANAGING DATABASES.</span><span class="value-right">80%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-striped active" role="progressbar"
+						  aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">DEALING WITH CUSTOMER QUERIES.</span><span class="value-right">85%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">TRANSFERRING DATA FROM PAPER FORMATS INTO COMPUTER FILES.</span><span class="value-right">90%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+						  </div>
+						</div>
+					</div>
+					<div class="progress-wrap">
+						<h3><span class="name-left">TYPING MANUSCRIPTS.</span><span class="value-right">80%</span></h3>
+						<div class="progress">
+						  <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
+						  aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+						  </div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 
 	<div id="fh5co-resume" class="fh5co-bg-color">
 		<div class="container">
@@ -139,11 +273,11 @@
 							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Senior Developer</h3>
-									<span class="company">Company Name - 2016 - Current</span>
+									<h3 class="timeline-title">Transcription Services</h3>
+									<span class="company"> 23/6/2022 - 26/6/2022</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p>I transcribed a youtube video course of 25 episodes to written documents for beginners, who may want  to learn about a git version control system.</p>
 								</div>
 							</div>
 						</li>
@@ -151,11 +285,11 @@
 							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Junior Developer</h3>
-									<span class="company">Company Name - 2013 - 2015</span>
+									<h3 class="timeline-title">Youtube Video Data Entry</h3>
+									<span class="company">12/6/2022 - 14/6/2022</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>I helped a youtube channel reply to users, and I ensured to get feed backs from them.</p>
 								</div>
 							</div>
 						</li>
@@ -163,15 +297,52 @@
 							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">UI/UX Designer</h3>
-									<span class="company">Company Name - 2010 - 2012</span>
+									<h3 class="timeline-title">Data Cleaning On Database.</h3>
+									<span class="company"> December, 2021.</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p>I performed database cross checking to ensure no duplicates in the system, by using multiple window based applications.</p>
 								</div>
 							</div>
 						</li>
-
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title"> Data Entry Management.</h3>
+									<span class="company">January,2022.</span>
+								</div>
+								<div class="timeline-body">
+									<p>Completed 10 - 30 reports daily to meet provider Data Management  goals.</p>
+								</div>
+							</div>
+						</li>
+						
+						<li class="animate-box timeline-unverted">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Medical Data Entry</h3>
+									<span class="company">2/4/2021 - 4/4/2021</span>
+								</div>
+								<div class="timeline-body">
+									<p>Entered scanned medical insurance claims into computer database system.</p>
+								</div>
+							</div>
+						</li>
+						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge"><i class="icon-suitcase"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Financial Reports Organisation.</h3>
+									<span class="company">January,2022.</span>
+								</div>
+								<div class="timeline-body">
+									<p>Prepared monthly financial statements for a housing corporations including their medical reports.</p>
+								</div>
+							</div>
+						</li>
+						<br><br>
 						<br>
 						<li class="timeline-heading text-center animate-box">
 							<div><h3>Education</h3></div>
@@ -180,27 +351,40 @@
 							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Masters Degree</h3>
-									<span class="company">University Name - 2007 - 2009</span>
+									<h3 class="timeline-title">BACHELOR OF COMPUTER ENGINEERING(UNDERGRADUATE)</h3>
+									<span class="company">University Of Uyo , Akwaibom State, Nigeria. - 2021 - Present.</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+									<p>Like I previously stated, I am a global Data-entry Specialist and a tech-savy. While still in school I have ensured to keep up with the job opportunities which are daily presented to people in tech, so I have ensured to keep learning how to use and program alot of softwares example Microsoft word, Microsoft Excel, Spreadsheet packages , php, javascript , google docs , Tabidoo, Zoho Forms , Jotforms, ntask etc. </p>
 								</div>
 							</div>
 						</li>
+						
 						<li class="animate-box timeline-unverted">
 							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
-									<h3 class="timeline-title">Bachelors Degree</h3>
-									<span class="company">University Name - 2002 - 2006</span>
+									<h3 class="timeline-title">HIGH SCHOOL</h3>
+									<span class="company">Federal Government College, Vandeikya .   - 2013 - 2019</span>
 								</div>
 								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+									<p>I finished with dignity and honor without a stain to my name, I stand to build,grow and fullfill purpose.</p>
 								</div>
 							</div>
 						</li>
 						<li class="timeline-inverted animate-box">
+							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+							<div class="timeline-panel">
+								<div class="timeline-heading">
+									<h3 class="timeline-title">Sololearn (Python,PHP,Javascript etc.)</h3>
+									<span class="company">Sololearn Online Learning Base - 2018 - 2021 .</span>
+								</div>
+								<div class="timeline-body">
+									<p>Though sometimes I felt like giving up but , I stood strong and subjugated the fear, and emerged with a certification from the sololearn community, stating that I finished not only a course on python basics but also, several other courses on different topics due to discipline and being focused with what i do.</p>
+								</div>
+							</div>
+						</li>
+						<!-- <li class="timeline-inverted animate-box">
 							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
 							<div class="timeline-panel">
 								<div class="timeline-heading">
@@ -211,19 +395,7 @@
 									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 								</div>
 							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Graduation</h3>
-									<span class="company">College Name - 1994 - 1998</span>
-								</div>
-								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-								</div>
-							</div>
-						</li>
+						</li> -->
 			    	</ul>
 				</div>
 			</div>
@@ -246,8 +418,10 @@
 								<i class="icon-paintbrush"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Web Design</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+								<h3>Data Transcription</h3>
+								<p>To help convert audio recording of interviews or discussion to text format,
+									which involves close attention.
+								</p>
 							</div>
 						</div>
 					</div>
@@ -258,8 +432,10 @@
 								<i class="icon-briefcase"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Branding</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+								<h3> Wordprocessing.</h3>
+								<p>I use alot of text editing software programs, which I use to create and edit document.
+									To ensure I am on track with my word usage, I use grammarly to test my sentences always.
+								</p>
 							</div>
 						</div>
 
@@ -270,8 +446,8 @@
 								<i class="icon-search"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Analytics</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+								<h3>Data Cleaning</h3>
+								<p>I ensure to properly collect, organize and compile data from customers to help  help streamline business expenses, business accounts  etc.</p>
 							</div>
 						</div>
 					</div>
@@ -286,8 +462,8 @@
 								<i class="icon-bargraph"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Web Developent</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+								<h3>Data Processing</h3>
+								<p>I also help to properly and accurately run data test, to ensure the data collected meets the global standard and reputation of my customers .</p>
 							</div>
 						</div>
 
@@ -300,7 +476,7 @@
 							</span>
 							<div class="feature-copy">
 								<h3>Researching</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+								<p>I normally ensure to go for exhaustive and systematic work using all tools necessary and all processes available, to ensure I deliver the best of my services to my clients.</p>
 							</div>
 						</div>
 
@@ -311,8 +487,8 @@
 								<i class="icon-chat"></i>
 							</span>
 							<div class="feature-copy">
-								<h3>Support</h3>
-								<p>Facilis ipsum reprehenderit nemo molestias. Aut cum mollitia reprehenderit.</p>
+								<h3>Data Conversion</h3>
+								<p>It all depends on what format of document does my client wants, and then I will accurately and  appropriately convert the given format to the required format to fit the specific purpose .</p>
 							</div>
 						</div>
 					</div>
@@ -321,112 +497,7 @@
 		</div>
 	</div>
 
-	<div id="fh5co-skills" class="animate-box">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Skills</h2>
-				</div>
-			</div>
-			<!-- <div class="row row-pb-md">
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="95"><span><strong>HTML5</strong>95%</span></div>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="93"><span><strong>CSS3</strong>93%</span></div>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="90"><span><strong>jQuery</strong>90%</span></div>
-				</div>
-
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="89"><span><strong>PHP</strong>89%</span></div>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="85"><span><strong>MySQL</strong>85%</span></div>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="90"><span><strong>AngularJS</strong>90%</span></div>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="85"><span><strong>Ruby</strong>85%</span></div>
-				</div>
-				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="90"><span><strong>Java</strong>90%</span></div>
-				</div>
-			</div> -->
-			<div class="row">
-				<div class="col-md-6">
-					<div class="progress-wrap">
-						<h3><span class="name-left">HTML5/CSS3</span><span class="value-right">95%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
-						  </div>
-						</div>
-					</div>
-					<div class="progress-wrap">
-						<h3><span class="name-left">WordPress</span><span class="value-right">90%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-2 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90%">
-						  </div>
-						</div>
-					</div>
-					<div class="progress-wrap">
-						<h3><span class="name-left">PHP</span><span class="value-right">80%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width:80%">
-						  </div>
-						</div>
-					</div>
-					<div class="progress-wrap">
-						<h3><span class="name-left">Java</span><span class="value-right">85%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-4 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
-						  </div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="progress-wrap">
-						<h3><span class="name-left">Design</span><span class="value-right">100%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-5 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width:100%">
-						  </div>
-						</div>
-					</div>
-					<div class="progress-wrap">
-						<h3><span class="name-left">Ruby</span><span class="value-right">70%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-striped active" role="progressbar"
-						  aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
-						  </div>
-						</div>
-					</div>
-					<div class="progress-wrap">
-						<h3><span class="name-left">Python</span><span class="value-right">85%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="85" aria-valuemin="0" aria-valuemax="100" style="width:85%">
-						  </div>
-						</div>
-					</div>
-					<div class="progress-wrap">
-						<h3><span class="name-left">jQuery</span><span class="value-right">75%</span></h3>
-						<div class="progress">
-						  <div class="progress-bar progress-bar-3 progress-bar-striped active" role="progressbar"
-						  aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75%">
-						  </div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	<br><br><br><br>
 
 	<div id="fh5co-work" class="fh5co-bg-dark">
 		<div class="container">
@@ -504,7 +575,7 @@
 		</div>
 	</div>
 
-	<div id="fh5co-blog">
+	<!-- <div id="fh5co-blog">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
@@ -561,7 +632,9 @@
 			</div>
 		</div>
 	</div>
-	
+	 -->
+
+	 <br><br><br><br><br>
 	<div id="fh5co-started" class="fh5co-bg-dark">
 		<div class="overlay"></div>
 		<div class="container">
@@ -569,7 +642,7 @@
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Hire Me!</h2>
 					<p>Hi I'm Alpheus Godswill Umanah</strong> an enthusiast about tech, an outstanding Data Entry Specialis that also has a burning desire about backend engineering. </p>
-					<p><a href="#" class="btn btn-default btn-lg">Contact Us</a></p>
+					<p><a href="#" class="btn btn-default btn-lg">Contact Me</a></p>
 				</div>
 			</div>
 		</div>
