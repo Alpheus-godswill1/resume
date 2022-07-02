@@ -510,7 +510,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-1.jpg);">
+					<a href="#self_made" class="work" style="background-image: url(images/portfolio-1.jpg);">
 						<div class="desc">
 							<h3>Project Name</h3>
 							<span>Illustration</span>
@@ -518,7 +518,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-2.jpg);">
+					<a href="#self_made" class="work" style="background-image: url(images/portfolio-2.jpg);">
 						<div class="desc">
 							<h3>Project Name</h3>
 							<span>Brading</span>
@@ -526,7 +526,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-3.jpg);">
+					<a href="#self_made" class="work" style="background-image: url(images/portfolio-3.jpg);">
 						<div class="desc">
 							<h3>Project Name</h3>
 							<span>Illustration</span>
@@ -534,7 +534,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-4.jpg);">
+					<a href="#self_made" class="work" style="background-image: url(images/portfolio-4.jpg);">
 						<div class="desc">
 							<h3>Project Name</h3>
 							<span>Design</span>
@@ -542,7 +542,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-5.jpg);">
+					<a href="#self_made" class="work" style="background-image: url(images/portfolio-5.jpg);">
 						<div class="desc">
 							<h3>Project Name</h3>
 							<span>Website</span>
@@ -550,7 +550,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-6.jpg);">
+					<a href="#self_made" class="work" style="background-image: url(images/portfolio-6.jpg);">
 						<div class="desc">
 							<h3>Project Name</h3>
 							<span>Illustration</span>
@@ -558,7 +558,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-7.jpg);">
+					<a href="#self_made" class="work" style="background-image: url(images/portfolio-7.jpg);">
 						<div class="desc">
 							<h3>Project Name</h3>
 							<span>Brading</span>
@@ -566,7 +566,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#" class="work" style="background-image: url(images/portfolio-8.jpg);">
+					<a href="#self_made" class="work" style="background-image: url(images/portfolio-8.jpg);">
 						<div class="desc">
 							<h3>Project Name</h3>
 							<span>Illustration</span>
