@@ -449,7 +449,7 @@
 							</span>
 							<div class="feature-copy">
 								<h3>Data Cleaning</h3>
-								<p>I ensure to properly collect, organize and compile data from customers to help  help streamline business expenses, business accounts  etc.</p>
+								<p>I ensure to properly collect, organize and compile data from customers to help  streamline business expenses, business accounts  etc.</p>
 							</div>
 						</div>
 					</div>
