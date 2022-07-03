@@ -370,7 +370,7 @@
 									<span class="company">Federal Government College, Vandeikya .   - 2013 - 2019</span>
 								</div>
 								<div class="timeline-body">
-									<p>I finished with dignity and honor without a stain to my name, I stand to build,grow and fullfill purpose.</p>
+									<p>I finished with dignity and honor without a stain to my name, I stand to build,grow and fullfill purpose, because i understand the true meaning of sacrifice.</p>
 								</div>
 							</div>
 						</li>
@@ -382,7 +382,7 @@
 									<span class="company">Sololearn Online Learning Base - 2018 - 2021 .</span>
 								</div>
 								<div class="timeline-body">
-									<p>Though sometimes I felt like giving up but , I stood strong and subjugated the fear, and emerged with a certification from the sololearn community, stating that I finished not only a course on python basics but also, several other courses on different topics due to discipline and being focused with what i do.</p>
+									<p>Though sometimes I felt like giving up but I stood strong and subjugated the fear, and emerged with a certification from the sololearn community, stating that I finished not only a course on python basics but also, several other courses on different topics due to discipline and being focused with what i do.</p>
 								</div>
 							</div>
 						</li>
