@@ -643,7 +643,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
 					<h2>Hire Me!</h2>
-					<p>Hi I'm Alpheus Godswill Umanah</strong> an enthusiast about tech, an outstanding Data Entry Specialis that also has a burning desire about backend engineering. </p>
+					<p>Hi I'm Alpheus Godswill Umanah</strong> an enthusiast about tech, an outstanding Data Entry Specialist that also has a burning desire about backend engineering. </p>
 					<p><a href="#" class="btn btn-default btn-lg">Contact Me</a></p>
 				</div>
 			</div>
