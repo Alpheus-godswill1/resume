@@ -108,7 +108,7 @@
 					<p><strong>I'm Alpheus Godswill Umanah</strong> a passionate  Data Entry Specialist that also has a burning desire about backend engineering , confident when presented with problems to be solved.</p>
 					<p>I have helped clients within these past months work on outstanding projects, and delivered as scheduled.</p>
 					<p>I see myself as an ambitious global tech-savy eager to learn,grow,build, work-through  any situation and any problem i handle sophisticatedly.  </p>
-					<p>I charge a little higher for my jobs/time because i always tend to deliver noteworthy projects to my clients as demanded.</p>
+					<p>I charge modestly for my jobs/time because i always tend to deliver noteworthy projects to my clients as demanded.</p>
 					<p>To know more of me take a look at my resume below.</p>
 					<p>
 						<ul class="fh5co-social-icons">
