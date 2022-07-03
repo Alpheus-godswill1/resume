@@ -465,7 +465,7 @@
 							</span>
 							<div class="feature-copy">
 								<h3>Data Processing</h3>
-								<p>I also help to properly and accurately run data test, to ensure the data collected meets the global standard and reputation of my customers .</p>
+								<p>I also help to properly and accurately run data test, to ensure the data collected meets the global standard and reputation of my clients .</p>
 							</div>
 						</div>
 
