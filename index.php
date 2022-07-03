@@ -435,8 +435,8 @@
 							</span>
 							<div class="feature-copy">
 								<h3> Wordprocessing.</h3>
-								<p>I use alot of text editing software programs, which I use to create and edit document.
-									To ensure I am on track with my word usage, I use grammarly to test my sentences always.
+								<p>I use alot of text editing software programs, which are used to create and edit documents.
+									To ensure I am on track with my word usage, grammarly is used to test my sentences always.
 								</p>
 							</div>
 						</div>
@@ -490,7 +490,7 @@
 							</span>
 							<div class="feature-copy">
 								<h3>Data Conversion</h3>
-								<p>It all depends on what format of document does my client wants, and then I will accurately and  appropriately convert the given format to the required format to fit the specific purpose .</p>
+								<p>It all depends on what format of document my client wants, and I will accurately and  appropriately convert the given format to the required format needed to fit the specific purpose of my clients .</p>
 							</div>
 						</div>
 					</div>
