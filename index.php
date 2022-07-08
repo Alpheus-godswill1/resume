@@ -518,7 +518,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#self_made" class="work" style="background-image: url(images/Medicaldat2.jpeg);">
+					<a href="#self_made" class="work" style="background-image: url(images/medicaldat21.jpeg);">
 						<div class="desc">
 							<h3>Project Name</h3>
 							<span>Brading</span>
