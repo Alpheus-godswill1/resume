@@ -133,7 +133,7 @@
 			</div>
 			<div class="row row-pb-md">
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
-					<div class="chart" data-percent="95"><span><strong>nTask</strong>95%</span></div>
+					<div class="chart" data-percent="95"><span><strong>Microsoft Word</strong>95%</span></div>
 				</div>
 				<div class="col-md-3 col-sm-6 col-xs-12 text-center">
 					<div class="chart" data-percent="93"><span><strong>Entrypoint</strong>93%</span></div>
