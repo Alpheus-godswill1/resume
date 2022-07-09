@@ -512,64 +512,64 @@
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="#self_made" class="work" style="background-image: url(images/word2.png);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+							<h3>Data Typing / Little Research Work.</h3>
+							<span>Proofreading.</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="#self_made" class="work" style="background-image: url(images/medicaldat21.jpeg);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Brading</span>
+							<h3>Medical Clients, Data Organisation.</h3>
+							<span>Checking.</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="#self_made" class="work" style="background-image: url(images/medicaldata.png);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+							<h3>Petrol Station Data Organisation.</h3>
+							<span>Project checks.</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="#self_made" class="work" style="background-image: url(images/data.png);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Design</span>
+							<h3>Proofreading Project / Data Organisation.</h3>
+							<span>Data</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="#self_made" class="work" style="background-image: url(images/medicaldat2.jpeg);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Website</span>
+							<h3>Typing</h3>
+							<span>paper work</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="#self_made" class="work" style="background-image: url(images/healthdata4.jpeg);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+							<h3>Data Organisation And Entering.</h3>
+							<span>Data Center.</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="#self_made" class="work" style="background-image: url(images/financialdata3.jpeg);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Brading</span>
+							<h3>Financial Data Management.</h3>
+							<span>Organization.</span>
 						</div>
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
 					<a href="#self_made" class="work" style="background-image: url(images/data2.jpeg);">
 						<div class="desc">
-							<h3>Project Name</h3>
-							<span>Illustration</span>
+							<h3>Financial Data Cleanig</h3>
+							<span>Proof checking.</span>
 						</div>
 					</a>
 				</div>
