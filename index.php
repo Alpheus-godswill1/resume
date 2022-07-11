@@ -656,7 +656,7 @@
 		</div>
 		<div class="choose animate-box">
 			<h2>Contact</h2>
-			<form action="./include/function.php" method="post">
+			<form action="./include/function.php" method="POST">
 				<div class="row form-group">
 					<div class="col-md-6">
 						<input type="text" id="fname" name="fname" class="form-control" placeholder="Your firstname">
