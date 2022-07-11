@@ -128,7 +128,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-					<h2>Tools Being Used.</h2>
+					<h2>Some Tools Used For My Clients Project .</h2>
 				</div>
 			</div>
 			<div class="row row-pb-md">
