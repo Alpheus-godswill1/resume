@@ -69,7 +69,7 @@
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
 							<div class="profile-thumb" style="background: url(./images/about.jpg);"></div>
 							<h1><span>Alpheus Godswill Umanah</span></h1>
-							<h3><span> Data Entry Specialist / Backend Engineer</span></h3>
+							<h3><span> Senior Backend PHP Engineer</span></h3>
 							<p>
 								<ul class="fh5co-social-icons">
 									<li><a href="https://twitter.com/alpheus___"><i class="icon-twitter2"></i></a></li>
