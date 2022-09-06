@@ -74,7 +74,6 @@
 								<ul class="fh5co-social-icons">
 									<li><a href="https://twitter.com/alpheus___"><i class="icon-twitter2"></i></a></li>
 									<li><a href="https://www.facebook.com/alpheus.godswill"><i class="icon-facebook2"></i></a></li>
-									<li><a href="https://gmail.com/harryalph9@gmail.com"><i class="icon-mail2"></i></a></li>
 									<li><a href="https://www.linkedin.com/in/alpheus-godswill-160a9619a"><i class="icon-linkedin2"></i></a></li>
 									<!-- <li><a href="#"><i class="icon-dribbble2"></i></a></li> -->
 								</ul>
