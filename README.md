@@ -13,4 +13,4 @@ Free Website Template, Free HTML5 Template by freehtml5.co
 	//////////////////////////////////////////////////////
 	 -->
 
-# Just ran across this awesome template and decided to use it for my data-entry skill set 
+# Just ran across this awesome template and decided to use it for my portfolio
