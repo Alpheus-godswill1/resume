@@ -104,7 +104,7 @@
 				</div>
 				<div class="col-md-8">
 					<h2>Hello!</h2>
-					<p><strong>I'm Alpheus Godswill Umanah</strong>✅ Top innovator, Senior Backend PHP Engineer..</p>
+					<p><strong>✅ Top innovator</strong>, Senior Backend PHP Engineer..</p>
 					<p>⚡︎ Avid Learner, passionate about Architecting the Backend using Amazing and simple/interesting PHP solutions</p>
 						<ul class="fh5co-social-icons">
 							<li><a href="https://twitter.com/alpheus___"><i class="icon-twitter2"></i></a></li>
