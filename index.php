@@ -103,13 +103,9 @@
 					</ul>
 				</div>
 				<div class="col-md-8">
-					<h2>Hello There!</h2>
-					<p><strong>I'm Alpheus Godswill Umanah</strong> a passionate  Data Entry Specialist that also has a burning desire about backend engineering , confident when presented with problems to be solved.</p>
-					<p>I have helped clients within these past months work on outstanding projects, and delivered as scheduled.</p>
-					<p>I see myself as an ambitious global tech-savy eager to learn,grow,build, work-through  any situation and any problem i handle sophisticatedly.  </p>
-					<p>I charge modestly for my jobs/time because i always deliver noteworthy projects to my clients as demanded.</p>
-					<p>To know more of me take a look at my resume below.</p>
-					<p>
+					<h2>Hello!</h2>
+					<p><strong>I'm Alpheus Godswill Umanah</strong>✅ Top innovator, Senior Backend PHP Engineer..</p>
+					<p>⚡︎ Avid Learner, passionate about Architecting the Backend using Amazing and simple/interesting PHP solutions</p>
 						<ul class="fh5co-social-icons">
 							<li><a href="https://twitter.com/alpheus___"><i class="icon-twitter2"></i></a></li>
 									<li><a href="https://www.facebook.com/alpheus.godswill"><i class="icon-facebook2"></i></a></li>
