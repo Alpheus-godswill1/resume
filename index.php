@@ -512,7 +512,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#self_made" class="work" style="background-image: url(images/medicaldat21.jpeg);">
+					<a href="#self_made" class="work" style="background-image: url(images/Medicaldat21.jpeg);">
 						<div class="desc">
 							<h3>Medical Clients, Data Organisation.</h3>
 							<span>Checking.</span>
@@ -536,7 +536,7 @@
 					</a>
 				</div>
 				<div class="col-md-3 text-center col-padding animate-box">
-					<a href="#self_made" class="work" style="background-image: url(images/medicaldat2.jpeg);">
+					<a href="#self_made" class="work" style="background-image: url(images/Medicaldat2.jpeg);">
 						<div class="desc">
 							<h3>Typing</h3>
 							<span>paper work</span>
